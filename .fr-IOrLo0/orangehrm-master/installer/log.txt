@@ -1,0 +1,50 @@
+Client Info
+
+User Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+Remote Address : ::1
+
+Server Info
+
+Host : localhost
+PHP Version : 7.2.32
+Server : Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.2.32
+Admin : postmaster@localhost
+
+Document Root : C:/xampp/htdocs
+ROOT_PATH : C:\xampp\htdocs\orangehrm
+
+OrangeHRM Installation Log
+
+Mon, 03 Aug 2020 00:23:46 +0200 DB Creation - Starting
+Mon, 03 Aug 2020 00:23:46 +0200 DB Creation - Done
+Mon, 03 Aug 2020 00:23:46 +0200 DB Creation - No Errors
+Mon, 03 Aug 2020 00:23:49 +0200 Fill Data Phase 1 - Starting
+Mon, 03 Aug 2020 00:23:49 +0200 Fill Data Phase 1 - Connected to the DB Server
+Mon, 03 Aug 2020 00:23:49 +0200 Fill Data Phase 1 - Selected the DB
+Mon, 03 Aug 2020 00:23:49 +0200 Fill Data Phase 1 - Reading DB Script
+Mon, 03 Aug 2020 00:23:49 +0200 Fill Data Phase 1 - Opened DB Script
+Mon, 03 Aug 2020 00:23:49 +0200 Fill Data Phase 1 - Read DB script
+Mon, 03 Aug 2020 00:23:49 +0200 Fill Data Phase 1 - There are 309 Statements in the DB script
+Mon, 03 Aug 2020 00:24:00 +0200 MySQL Procedure Error:No database selected
+Mon, 03 Aug 2020 00:24:00 +0200 Fill Data Phase 1 - Done
+Mon, 03 Aug 2020 00:24:00 +0200 Fill Data Phase 1 - No Errors
+Mon, 03 Aug 2020 00:24:03 +0200 Fill Data Phase 2 - Starting
+Mon, 03 Aug 2020 00:24:03 +0200 Fill Data Phase 2 - Connected to the DB Server
+Mon, 03 Aug 2020 00:24:03 +0200 Fill Data Phase 2 - Selected the DB
+Mon, 03 Aug 2020 00:24:03 +0200 Fill Data Phase 2 - Reading DB Script
+Mon, 03 Aug 2020 00:24:03 +0200 Fill Data Phase 2 - Opened DB Script
+Mon, 03 Aug 2020 00:24:03 +0200 Fill Data Phase 2 - Read DB script
+Mon, 03 Aug 2020 00:24:03 +0200 Fill Data Phase 2 - There are 187 Statements in the DB script
+Mon, 03 Aug 2020 00:24:03 +0200 MySQL Event Error:No database selected
+Mon, 03 Aug 2020 00:24:03 +0200 Fill Data Phase 1 - Connected to the DB Server
+Mon, 03 Aug 2020 00:24:04 +0200 Fill Data Phase 2 - Done
+Mon, 03 Aug 2020 00:24:04 +0200 Fill Data Phase 2 - No Errors
+Mon, 03 Aug 2020 00:24:06 +0200 Create DB user - Starting
+Mon, 03 Aug 2020 00:24:06 +0200 Create DB user - Done
+Mon, 03 Aug 2020 00:24:06 +0200 Create DB user - No Errors
+Mon, 03 Aug 2020 00:24:09 +0200 Create OrangeHRM user - Starting
+Mon, 03 Aug 2020 00:24:09 +0200 Create OrangeHRM user - Done
+Mon, 03 Aug 2020 00:24:09 +0200 Create OrangeHRM user - No Errors
+Mon, 03 Aug 2020 00:24:11 +0200 Write Conf - Starting
+Mon, 03 Aug 2020 00:24:11 +0200 Write Conf - Done
+Mon, 03 Aug 2020 00:24:11 +0200 Write Conf - No Errors
